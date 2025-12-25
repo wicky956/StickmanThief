@@ -1,0 +1,542 @@
+{
+  "project_info": {
+    "project_number": "20144863725",
+    "project_id": "fir-10-a85f3",
+    "storage_bucket": "fir-10-a85f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:70b15c2be271f60fbd0fe4",
+        "android_client_info": {
+          "package_name": "com.action.shoot.healthy.guy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:c778b45dc207a756bd0fe4",
+        "android_client_info": {
+          "package_name": "com.aidiangames.gossipgirl.gp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:9d9ef528ba36f1b1bd0fe4",
+        "android_client_info": {
+          "package_name": "com.billionaire.mom.games.businessman.happy.family.life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:c6917a5ebb1a9ef4bd0fe4",
+        "android_client_info": {
+          "package_name": "com.block.fever.jam.puzzle.color.blast.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:1bbc3fc2af1bd3d8bd0fe4",
+        "android_client_info": {
+          "package_name": "com.boboworld.apps.princessmagicland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:c0aa33a9e039cfe2bd0fe4",
+        "android_client_info": {
+          "package_name": "com.boboworld.apps.shoppingmall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:d399227956745b40bd0fe4",
+        "android_client_info": {
+          "package_name": "com.boboworld.apps.unicornprincess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:6e1a042b53b397f2bd0fe4",
+        "android_client_info": {
+          "package_name": "com.brick.puzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:dce7e18adf2e7342bd0fe4",
+        "android_client_info": {
+          "package_name": "com.dg.pregnant.mom.games.mother.simulator.family.life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:29500962057a08b9bd0fe4",
+        "android_client_info": {
+          "package_name": "com.ffg.offline.games.driving.city.bus.simulator.busgames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:72eec1cb9c150fefbd0fe4",
+        "android_client_info": {
+          "package_name": "com.frolics.car.stunt.race.master3d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:d225c2ff9274b083bd0fe4",
+        "android_client_info": {
+          "package_name": "com.ft.goods.sorting.manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:c2508c189733d912bd0fe4",
+        "android_client_info": {
+          "package_name": "com.games.ms.wonder.goal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:737fd0516d304a9abd0fe4",
+        "android_client_info": {
+          "package_name": "com.gzl.stickman.adventure.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:77cb84aa123d12c4bd0fe4",
+        "android_client_info": {
+          "package_name": "com.httc.dollarstreettycoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:0c9bafbcc821cb10bd0fe4",
+        "android_client_info": {
+          "package_name": "com.hunting.clash.wild.hunter.deer.europe.huntingsniper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:589725d7995b8766bd0fe4",
+        "android_client_info": {
+          "package_name": "com.kingone.puzzle.link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:899309fdefa67c6cbd0fe4",
+        "android_client_info": {
+          "package_name": "com.lifedesigner.lifedesigner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:e779fa631d626a9dbd0fe4",
+        "android_client_info": {
+          "package_name": "com.mag.offline.fps.shooter.missiongame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:101a5fa508f54b06bd0fe4",
+        "android_client_info": {
+          "package_name": "com.mml.vehicle.masters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:13c9c5b254a51455bd0fe4",
+        "android_client_info": {
+          "package_name": "com.nexthope.superhero.karate.fighting.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:3d60faf29b90b78ebd0fe4",
+        "android_client_info": {
+          "package_name": "com.smashcar.mmgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:6c366fc9f1d827e9bd0fe4",
+        "android_client_info": {
+          "package_name": "com.sniper.shooting.gun.games.fps.shooter.sniper.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:d85a72c5c7b88a67bd0fe4",
+        "android_client_info": {
+          "package_name": "com.sugs.police.highway.chase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:ac9b18def8ffab87bd0fe4",
+        "android_client_info": {
+          "package_name": "com.thiefpuzzle.stickman.heist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:cde874fca5b27c91bd0fe4",
+        "android_client_info": {
+          "package_name": "com.tidy.perfect.satisfy.asmr.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:6a0f172114aae8b8bd0fe4",
+        "android_client_info": {
+          "package_name": "com.whizwik.sludgefury.robouprising"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20144863725:android:602463d3f7d0c7c5bd0fe4",
+        "android_client_info": {
+          "package_name": "com.yqhd.tkdzzgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvikYf83KmOFseCUG2ulS0fBBOr9Ph6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
